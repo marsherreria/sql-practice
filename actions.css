@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+
+body {
+    font-family: 'Tapestry', cursive;
+	background-color: #F79256;
+}
+
+#login-wrapper {
+	width: 500px;
+    color: #1D4E89;
+    text-align:center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FBD1A2;
+	padding: 20px;
+    margin-top: 20px;
+	border: 4px solid #7DCFB6;
+
+}
+
+.box {
+	width: 30%;
+	display: block;
+	font-size: 1.5em;
+    margin-top: 20px;
+	background-color: #1D4E89;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align:center;
+    margin-left: auto;
+	margin-right: auto;
+
+}
+
+td {
+	text-align: center;
+}
+
+a {
+	color: #7DCFB6;
+	text-decoration: none;
+}
+
+table {
+	text-align: right;
+}
+
+th {
+	text-align: center;
+    color: #FBD1A2;
+}
+
+#button {
+	display: block; 
+	background-color: #1D4E89; 
+	color:#7DCFB6;
+    margin-left: auto; 
+	margin-right: auto; 
+}
+	
+#results {
+	background-color: #1D4E89;
+	border: 2px solid #7DCFB6;
+    color: white;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	
+}
